@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "normal": {
+      "model": "ckblock:my_block"
+    }
+  }
+}
