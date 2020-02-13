@@ -1,4 +1,4 @@
-# codeing-kids
+# coding-kids
 
 ## Setting up a Workspace/Compiling from Source
 Note: Git MUST be installed and in the system path to use our scripts.
